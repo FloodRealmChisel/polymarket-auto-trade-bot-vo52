@@ -1,4 +1,4 @@
-# 
+# Polymarket custom Strategy: market-making & cross-chain-arbitrage is the best Polymarket strategy, featuring market-making and cross-chain-arbitrage. Smart, fast, and optimized
 
 
 
